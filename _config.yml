@@ -1,5 +1,5 @@
-title:            Helder Vasconcelos
-description:      Software Enginner by day, FreeLancer by Night
+title:            Hélder Vasconcelos
+description:      Portuguese Software Enginner based in Dublin,Ireland
 logo:             site-logo.png
 disqus_shortname: heldervasconcelos
 search:           true
@@ -8,7 +8,7 @@ search:           true
 
 # Owner/author information
 owner:
-  name:           Helder Vasconcelos
+  name:           Hélder Vasconcelos
   avatar:         bio-photo.jpg
   email:          heldervasc@bearstouch.com
   # Social networking links used in footer. Update and remove as you like.
@@ -38,9 +38,6 @@ links:
     url: /resume
   - title: Articles
     url: /articles
-  - title: Bearstouch Software
-    url: http://www.bearstouch.com
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London

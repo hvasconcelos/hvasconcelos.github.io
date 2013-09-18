@@ -5,9 +5,6 @@ title: Resume
 tags: [software engineer, freelancer, software, developer, resume]
 modified: 2013-09-13
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: Hélder Vasconcelos
-  creditlink: http://mademistakes.com
 ---
 
 ## Experience

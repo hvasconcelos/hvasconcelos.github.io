@@ -1,16 +1,14 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About Hélder
+title: About Hélder Vasoncelos
 tags: [software engineer, freelancer, software, developer, resume]
 modified: 2013-09-16
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: Hélder Vasconcelos
   creditlink: http://mademistakes.com
 ---
 
-I'm a Portuguese Software Engineer living in Dublin, Ireland.
+I'm a Portuguese Software Engineer living in Dublin, Ireland. I usually write articles about Computer Science, Programming Languages/Frameworks, UI/UX and new technologies.
 
 ### Contact Me
 
