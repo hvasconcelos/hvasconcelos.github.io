@@ -21,13 +21,13 @@ After one June weekend updating my Monster profile in the next work days i start
 The job interview processes lasted in August when i accepted a proposal made by my current company. They hired me to work in a permanent Senior Software Engineer role based in Dublin,Ireland.
 
 
-## Ireland Choice
+## Why Ireland
 
  The Ireland choice was not hard but the arguments that seduced me were :
 
 * A job in a different industry - Aeronautical Telecommunications
 * Chance to new learn new things and work with leading technologies
-* A huge cluster of International IT enterprises to work on with highly competitive remunerations and career prospects.
+* A huge cluster of International IT companies to work on with  competitive remunerations and career prospects.
 * A challenging multicultural environment workplace
 * Fast-paced dynamic IT sector
 
