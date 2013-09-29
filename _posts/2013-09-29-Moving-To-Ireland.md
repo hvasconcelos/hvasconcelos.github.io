@@ -10,7 +10,7 @@ image:
   credit: Tânia Vasconcelos
 ---
 
-After 1 year living on Dublin, Ireland i decided to share my experience and some advices to newcomers and people that are interested in moving to this country.
+After 1 year living on Dublin, Ireland i decided to share my experience and some advices to Ireland newcomers and people that are interested in moving to this country.
 
 ## Before Moving
 
@@ -23,19 +23,19 @@ The job interview processes lasted in August when i accepted a proposal made by 
 
 ## Ireland Choice
 
- The Ireland choice was natural but the arguments that seduced me were :
+ The Ireland choice was not hard but the arguments that seduced me were :
 
-* A job in a different industry Aeronautical Telecommunications
+* A job in a different industry - Aeronautical Telecommunications
 * Chance to new learn new things and work with leading technologies
 * A huge cluster of International IT enterprises to work on with highly competitive remunerations and career prospects.
-* A challenging multicultural environment to work
+* A challenging multicultural environment workplace
 * Fast-paced dynamic IT sector
 
-In October of 2012 i arrived in the Dublin Airport coming from the sunny Portugal with a lot expectations and 2 bags of stuff for bear my first year in the country.
+In October of 2012 i arrived in the Dublin Airport coming from the sunny Portugal with a lot expectations and 2 bags of personal stuff for bear my first year in the country.
 
 ## After Arriving
 
-In the first days, i spent most of my time doing the paperwork so for helping newcomers i created an ordered list of tasks and advices that you shall do in order to get everything done without to much rush.
+In the first days, i spent most of my time doing the paperwork so for helping newcomers i created an ordered list of tasks, tips and advices that you shall follow in order to get everything done without to much rush.
 
 1. Rent an apartment or a house and get a letter from the landlord saying that you live on the house (proof of address). Here is a list of websites to search for apartments and houses:
   * [Daft.ie](http://www.daft.ie/)
@@ -60,7 +60,7 @@ In the first days, i spent most of my time doing the paperwork so for helping ne
 
 ## Overall Experience
 
-The overall experience in Ireland has been very delightful and the most part of the people are kindly and helpful but i am still adapting to Irish culture and new habits.
+The overall experience in Ireland has been very delightful and the most part of the people are kindly and helpful but i am still adapting to Irish culture and weather.
 
 The city is environment is vibrant so you can find a lot of historical and funny places to visit on the weekends.
 
