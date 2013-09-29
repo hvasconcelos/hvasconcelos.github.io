@@ -4,7 +4,7 @@ logo:             site-logo.png
 disqus_shortname: heldervasconcelos
 search:           true
 #Comment out url when working locally to resolve base urls correctly
-#url:              http://hvasconcelos.github.io
+url:              http://hvasconcelos.github.io
 
 # Owner/author information
 owner:
