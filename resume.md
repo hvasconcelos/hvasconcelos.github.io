@@ -14,9 +14,9 @@ image:
 
 * Contributed to ATN (Aeronautical Communication network) CM,CPDLC and ADS-C Test Tools by designing/developing several new features and resolving existing bugs.
 * Requirements management and architecture specification.
-* UI Wire framing and Specification
+* UI Wire framing and Specification.
 * Automated Unit and integration test design.
-* Developed some ASN.1 Specification parsing tools
+* Developed some ASN.1 parsing tools.
 
 ### Software Engineer October 2007 - October 2012
 [PT Inovação](http://www.ptinovacao.pt/) | [Outsoft](http://www.outsoft.pt/), Aveiro , Portugal

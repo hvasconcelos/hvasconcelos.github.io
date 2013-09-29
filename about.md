@@ -1,14 +1,13 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About Hélder Vasoncelos
+title: About Hélder Vasconcelos
 tags: [software engineer, freelancer, software, developer, resume]
 modified: 2013-09-16
-image:
-  creditlink: http://mademistakes.com
 ---
 
-I'm a Portuguese Software Engineer living in Dublin, Ireland. I usually write articles about Computer Science, Programming Languages/Frameworks, UI/UX and new technologies.
+I'm a Portuguese Software Engineer based in Dublin, Ireland.
+During the day i work for Irish company and in my spare time i work as a freelancer doing some Native Android and Backend developments.
 
 ### Contact Me
 
@@ -19,4 +18,6 @@ I'm a Portuguese Software Engineer living in Dublin, Ireland. I usually write ar
 
 ### Consulting
 
-You are interested in my consulting services to bootstap your project please fell free to contact me. I can help you build applications from the ground up with scalable architectures, the most recent and efficient tools, methods and frameworks.
+You are interested in my consulting services to bootstrap your project please fell free to contact me. I can help you build applications from the ground up with scalable architectures, leading tools, methods and frameworks.
+
+

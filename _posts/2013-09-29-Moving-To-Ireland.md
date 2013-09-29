@@ -10,13 +10,13 @@ image:
   credit: Tânia Vasconcelos
 ---
 
-After 1 year living on Dublin, Ireland i decided to share my experience and some advices to Ireland newcomers and people that are interested in moving to this country.
+ One year has passed Dublin since i arrived on Ireland so i decided to share my experience and some advices to Ireland newcomers and people that are willing to move to this country.
 
 ## Before Moving
 
 After 5 years working for the same employer and after the last events that had happened in the Portuguese economy me an my wife decided that it was the time to try to build our life in a new country.
 
-After one June weekend updating my Monster profile in the next Monday i started to receive phone calls from job agencies around Europe.
+After one June weekend updating my Monster profile in the next work days i started to receive phone calls from job agencies around Europe.
 
 The job interview processes lasted in August when i accepted a proposal made by my current company. They hired me to work in a permanent Senior Software Engineer role based in Dublin,Ireland.
 
@@ -60,11 +60,11 @@ In the first days, i spent most of my time doing the paperwork so for helping ne
 
 ## Overall Experience
 
-The overall experience in Ireland has been very delightful and the most part of the people are kindly and helpful but i am still adapting to Irish culture and weather.
+The overall experience in Ireland has been very positive and the most part of the people are kindly and helpful but i am still adapting to Irish culture and weather.
 
 The city is environment is vibrant so you can find a lot of historical and funny places to visit on the weekends.
 
-If you planning to move to Ireland first try get a job, save some money for the relocation expenses and compare the cost of living and taxes with your city in order to properly negotiate your salary.
+If you planning to move to Ireland first try get a job before you come in, save some money for the relocation expenses and compare the cost of living and taxes with your city in order to properly negotiate your salary.
 
 ### Helpful Links
 
