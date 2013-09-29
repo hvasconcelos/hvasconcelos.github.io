@@ -56,7 +56,7 @@ In the first days, i spent most of my time doing the paperwork so for helping ne
   * [O2](http://www.o2online.ie/)
   * [Three](http://www.three.ie/)
 
-6. If you coming from a South European country don't forgot to buy some warm clothes because the Winter is long, cold and rainy.
+6. If you coming from a South European country don't forget to buy some warm clothes because the Winter is long, cold and rainy.
 
 ## Overall Experience
 
