@@ -7,7 +7,7 @@ modified: 2013-09-16
 ---
 
 I'm a Portuguese Software Engineer based in Dublin, Ireland.
-During the day i work for Irish company and in my spare time i work as a freelancer doing some Native Android and Backend developments.
+During the day i work for an Irish company and in my spare time i work as a freelancer doing some Native Android and Backend developments.
 
 ### Contact Me
 
