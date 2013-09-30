@@ -42,7 +42,7 @@ In the first days, i spent most of my time doing the paperwork so for helping ne
   * [MyHome](http://www.myhome.ie)
   * [Rent IE](http://www.rent.ie)
 
-2. Go the **Welfare Office** in Parnell Street, Dublin and register your PPS (Public Services Number) with the proof of address and your passport.
+2. Go to your **Social Welfare Local Office** and register your PPSN (Personal Public Services Number) with the proof of address and your passport.Use the [Office Locator](http://www.welfare.ie/en/Pages/Intreo-Centres-and-Local-and-Branch-Offices.aspx) to know the street address.
 
 3. Apply for a **Tax Certificate** with the form [Form12A](http://www.revenue.ie/en/tax/it/forms/form12a.pdf) after receiving your PPS number on the post, it usually takes 5 work days after the registering. Fill the form an send it by post to your local Revenue Office.
 
