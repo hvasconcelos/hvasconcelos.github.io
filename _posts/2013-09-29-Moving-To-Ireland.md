@@ -48,7 +48,9 @@ In the first days, i spent most of my time doing the paperwork so for helping ne
 
 4. Open a **Bank Account** on your preferred Irish bank to receive your salary.Be aware that the bank may ask you for a recommendation from your employer.
   * [AIB](http://www.aib.ie/)
-  * [National Irish Bank](http://www.nationalirishbank.ie/‎)
+  * [National Irish Bank](http://www.nationalirishbank.ie/)
+  * [Bank of Ireland](http://www.bankofireland.com/)
+  * [Ulster bank](www.ulsterbank.ie/)
 
 5. Buy a mobile phone from a Irish mobile provider network because you may need it to call to some services, the list of Irish mobile phone providers:
   * [Meteor](http://meteor.ie/)
