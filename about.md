@@ -18,6 +18,6 @@ During the day i work for an Irish company and in my spare time i work as a free
 
 ### Consulting
 
-You are interested in my consulting services to bootstrap your project please fell free to contact me. I can help you build applications from the ground up with scalable architectures, leading tools, methods and frameworks.
+You are interested in my consulting services to bootstrap your project please fell free to contact me. I can help you build applications from the ground up.
 
 
