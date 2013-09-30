@@ -38,7 +38,7 @@ In October of 2012 i arrived in the Dublin Airport coming from the sunny Portuga
 In the first days, i spent most of my time doing the paperwork so for helping newcomers i created an ordered list of tasks, tips and advices that you shall follow in order to get everything done without to much rush.
 
 1. Rent an apartment or a house and get a letter from the landlord saying that you live on the house (proof of address). Here is a list of websites to search for apartments and houses:
-  * [Daft.ie](http://www.daft.ie/)
+  * [Daft](http://www.daft.ie/)
   * [MyHome](http://www.myhome.ie)
   * [Rent IE](http://www.rent.ie)
 
@@ -50,7 +50,7 @@ In the first days, i spent most of my time doing the paperwork so for helping ne
   * [AIB](http://www.aib.ie/)
   * [National Irish Bank](http://www.nationalirishbank.ie/)
   * [Bank of Ireland](http://www.bankofireland.com/)
-  * [Ulster bank](www.ulsterbank.ie/)
+  * [Ulster bank](http://www.ulsterbank.ie/)
 
 5. Buy a mobile phone from a Irish mobile provider network because you may need it to call to some services, the list of Irish mobile phone providers:
   * [Meteor](http://meteor.ie/)
