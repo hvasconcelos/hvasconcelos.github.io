@@ -10,7 +10,7 @@ image:
   credit: Tânia Vasconcelos
 ---
 
-One year has passed Dublin since i arrived in Ireland, so i think it is the right time to share a little bit more about my experience and share some tips with Ireland newcomers and people that are willing to move to this country.
+One year has passed since i arrived in Dublin Ireland, so i think it is the right time to share a little bit more about my experience and share some tips with Ireland newcomers and people that are willing to move to this country.
 
 ## Before Moving
 
