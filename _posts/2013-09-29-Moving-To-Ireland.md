@@ -22,7 +22,8 @@ The job interview processes lasted in August when i accepted a proposal made by 
 
 ## Why Ireland
 
- The Ireland choice was not hard but the arguments that seduced me wersupport
+The Ireland choice was not hard but the arguments that convinced me were:
+
 * A job in a different industry - Aeronautical Telecommunications
 * Chance to new learn new things and work with leading technologies
 * A huge cluster of International IT companies to work on with  competitive remunerations and career prospects.
