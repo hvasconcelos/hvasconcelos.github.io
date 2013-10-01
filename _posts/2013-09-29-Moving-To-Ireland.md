@@ -10,11 +10,11 @@ image:
   credit: Tânia Vasconcelos
 ---
 
- One year has passed Dublin since i arrived on Ireland so i decided to share my experience and some advices to Ireland newcomers and people that are willing to move to this country.
+ One year has passed Dublin since i arrived in Ireland so i decided to share my experience and some advices to Ireland newcomers and people that are willing to move to this country.
 
 ## Before Moving
 
-After 5 years working for the same employer and after the last events that had happened in the Portuguese economy me an my wife decided that it was the time to try to build our life in a new country.
+After 5 years working for the same employer and after the last events that had happened in the Portuguese economy me and my wife decided that it was the time to try to build our life in a new country.
 
 After one June weekend updating my Monster profile in the next work days i started to receive phone calls from job agencies around Europe.
 
