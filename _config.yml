@@ -12,16 +12,16 @@ owner:
   avatar:         bio-photo.jpg
   email:          heldervasc@bearstouch.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        https://twitter.com/heldervasc
+  twitter:        heldervasc
   facebook:
-  github:         https://github.com/hvasconcelos
+  github:         hvasconcelos
   stackexchange:
-  linkedin:       http://linkedin.com/pub/hélder-vasconcelos/24/92a/272/en
+  linkedin:       in/heldervasc
   instagram:
   flickr:
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:   https://plus.google.com/104843025501484118928
+  google_plus:   104843025501484118928
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-44147737-1
