@@ -74,6 +74,7 @@ system  that handles all the SMS Traffic from a Telco in Africa
 
 ## Side Projects
 
+* Asynchronous Android - Book Technical Reviewer for [Packt Publishing](http://www.packtpub.com/concurrent-programming-on-android/book)
 * Designed and developed the native android application [SMS Scheduler Lite](https://play.google.com/store/apps/details?id=com.bearstouch.smsscheduler) and [SMS Scheduler Pro](https://play.google.com/store/apps/details?id=com.bearstouch.smsschedulerpro) (available on Google Play)
 * Designed and developed the native android application [Acordo Ortográfico](https://play.google.com/store/apps/details?id=com.bearstouch.acordoortografico.android) (available on Google Play)
 * Designed and developed for a third party client the native android application [Keytroller SMS](https://play.google.com/store/apps/details?id=com.keytroller.smssheduler) with Dropbox API and Sensor Metering Integrations.
