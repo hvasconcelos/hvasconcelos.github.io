@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/index.html
 title: About Hélder Vasconcelos
-tags: [software engineer, freelancer, software, developer, resume]
+tags: [software engineer,Android developer,engineer,freelancer, software, developer, resume]
 modified: 2013-09-16
 ---
 

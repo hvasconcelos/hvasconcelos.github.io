@@ -2,14 +2,27 @@
 layout: page
 permalink: /resume/index.html
 title: Resume
-tags: [software engineer, freelancer, software, developer, resume]
+tags: [software engineer, freelancer, software, developer, resume,cv,C++]
 modified: 2013-09-13
 image:
 ---
 
 ## Experience
 
-### Senior Software Developer October 2012 - Currrent
+### Senior Software Engineer January 2014 - Currrent
+[Axway](https://www.axway.com), Dublin, Ireland
+
+
+* API Manager feature specification  and developement
+* Mentoring Junior developers.
+* Secure Rest API Specification and Development
+
+#### Roles:
+
+* Management and definition of software requirements and issues.
+
+
+### Senior Software Engineer October 2012 - January 2014
 [Airtel ATN](http://www.airtel-atn.com), Dublin, Ireland
 
 * Contributed to ATN (Aeronautical Communication network) CM,CPDLC and ADS-C Test Tools by designing/developing several new features and resolving existing bugs.
@@ -74,6 +87,7 @@ system  that handles all the SMS Traffic from a Telco in Africa
 
 ## Side Projects
 
+* Asynchronous Android Programming - Book author for [Packt Publishing](https://www.packtpub.com/application-development/asynchronous-android-programming)
 * Asynchronous Android - Book Technical Reviewer for [Packt Publishing](http://www.packtpub.com/concurrent-programming-on-android/book)
 * Designed and developed the native android application [SMS Scheduler Lite](https://play.google.com/store/apps/details?id=com.bearstouch.smsscheduler) and [SMS Scheduler Pro](https://play.google.com/store/apps/details?id=com.bearstouch.smsschedulerpro) (available on Google Play)
 * Designed and developed the native android application [Acordo Ortográfico](https://play.google.com/store/apps/details?id=com.bearstouch.acordoortografico.android) (available on Google Play)
@@ -119,14 +133,16 @@ Subjects:
 * Software design, specification, integration, development and quality assurance.
 * Great experience developing and designing multi-threading distributed systems with demands of high-availability, high rates of traffic and very low processing latency.
 * High expertise in Linux based operating systems (Red Hat, CentOS and Ubuntu) – system administration, troubleshooting, advanced POSIX, socket and concurrent programming and software packaging.
-* HTTP, SIP and DNS network packet and communication flow analysis.
+* HTTP, Websockets, SIP and DNS network packet and communication flow analysis.
 * Great competence developing software following standard object oriented design and functional patterns and code style standards.
 * Database Systems: PostresSQL, SQLite and MySQL.
 * Design and implementation of tools for automate the integration tests, system tests and pre-production environments.
 * Native Android Development
 * Test automation and Unit testing with frameworks like jUnit, Mockito, PowerMock and RSpec.
 * Software Tools: gcc, rpm, gdb, eclipse, svn, autotools, ant, maven, advanced git, wireshark, Android development Tools, and JIRA.
-* Asterisk PBX Server programming and management.
+* OpenSSL Programming
+* Docker Advanced User
+* Agile methodologies
 
 ## Interests
 
