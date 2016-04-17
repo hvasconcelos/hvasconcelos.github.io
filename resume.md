@@ -7,22 +7,29 @@ modified: 2013-09-13
 image:
 ---
 
+
+
 ## Experience
 
-### Senior Software Engineer January 2014 - Currrent
+### Senior Software Engineer (January 2014 - Currrent)
 [Axway](https://www.axway.com), Dublin, Ireland
-
-
-* API Manager feature specification  and developement
-* Mentoring Junior developers.
-* Secure Rest API Specification and Development
 
 #### Roles:
 
-* Management and definition of software requirements and issues.
+* Implementation, design and development of features for Axway APIGateway and API Manager.
+* Designed and developed the APIGateway integration with a criptographic extenal HSM device. With this integration, APIGateway is able to forward Java and native criptograhpic operations to an external security device that manages private and secret keys.
+* Part of the team that developed the multi-threaded pipeline for sensitive API Traffic redaction. All the payloads processed by APIGAteway are intercepted and all the sensitive information is removed before it gets stored on the filesystem.
+* Part of the team that implemented the WebSockets Feature for APIGateway. The application is able to act as proxy websocket server, intercepting, authenticating and authorizating websockets mesages in both ways.
+* Support and maintenance of old APIGateway versions.
+* APIGateway application tuning for high level of demand use scenarios.
+* Part of the team that developed Swagger 2.0 Specfication support for APIManager.
+* Mentoring Junior developers.
 
 
-### Senior Software Engineer October 2012 - January 2014
+#### Technologies : C/C++, Java, JNI, OpenSSL,Rest APIS, Jython and Docker.
+
+
+### Senior Software Engineer (October 2012 - January 2014)
 [Airtel ATN](http://www.airtel-atn.com), Dublin, Ireland
 
 * Contributed to ATN (Aeronautical Communication network) CM,CPDLC and ADS-C Test Tools by designing/developing several new features and resolving existing bugs.
@@ -31,7 +38,10 @@ image:
 * Automated Unit and integration test design.
 * Developed some ASN.1 parsing tools.
 
-### Software Engineer October 2007 - October 2012
+
+#### Technologies : C/C++, Java, TCL/TK ,Ruby.
+
+### Software Engineer (October 2007 - October 2012)
 [PT Inovação](http://www.ptinovacao.pt/) | [Outsoft](http://www.outsoft.pt/), Aveiro , Portugal
 
 #### Roles:
@@ -77,13 +87,32 @@ system  that handles all the SMS Traffic from a Telco in Africa
 * Leaded the development of some components used by several successful products in the company for managing database connections, logging, real-time event processing/persistence, real time analytics (calculation & aggregation) and centralized system configuration version management.
 * Technologies: Java, C/C++, Ruby and Perl.
 
-### Software Engineer January 2006 - June 2007
+### Software Engineer (January 2006 - June 2007)
 
 [Rederia](http://www.rederia.pt/), Aveiro , Portugal
 
 * Collaborated with the Aveiro Domus's Domotics and Communications Team designing the necessary functional and technical specifications that will allow the construction of the House of the Future .
 * WIFI and Ethernet Network design and planing .
 * Developed some customized VoIP PBX systems based on the open source framework [Asterisk](http://www.asterisk.org/) .
+
+## Skills
+
+* Programming in C, C++, Java, Ruby+RoR, TCL/Tk, Go, Shell Script, and SQL.
+* Java (SE and Android) and C++ Applications debugging, profiling and tuning.
+* High expertise in network related protocols like HTTP, SIP, TCP/UDP/IP, DNS, Radius and Diameter.
+* Software design, specification, integration, development and quality assurance.
+* Great experience developing and designing multi-threading distributed systems with demands of high-availability, high rates of traffic and very low processing latency.
+* High expertise in Linux based operating systems (Red Hat, CentOS and Ubuntu) – system administration, troubleshooting, advanced POSIX, socket and concurrent programming and software packaging.
+* HTTP, Websockets, SIP and DNS network packet and communication flow analysis.
+* Great competence developing software following standard object oriented design and functional patterns and code style standards.
+* Database Systems: PostresSQL, SQLite and MySQL.
+* Design and implementation of tools for automate the integration tests, system tests and pre-production environments.
+* Native Android Development
+* Test automation and Unit testing with frameworks like jUnit, Mockito, PowerMock and RSpec.
+* Software Tools: gcc, rpm, gdb, eclipse, svn, autotools, ant, maven, advanced git, wireshark, Android development Tools, and JIRA.
+* OpenSSL Programming
+* Docker Advanced User
+* Agile methodologies
 
 ## Side Projects
 
@@ -104,7 +133,6 @@ system  that handles all the SMS Traffic from a Telco in Africa
 
 ## Education
 
-
 ### Electronic & Telecommunications Engineering September 2000 - December 2006
 
 Aveiro University, Aveiro , Porttugal
@@ -124,25 +152,6 @@ Subjects:
 * Beginning Development Web Apps with Ruby on Rails – Galileu - Aveiro 2009
 * Machine Learning - Coursera (Standford University) - June-July 2013
 
-
-## Skills
-
-* Programming in C, C++, Java, Ruby+RoR, TCL/Tk, Go, Shell Script, and SQL.
-* Java (SE and Android) and C++ Applications debugging, profiling and tuning.
-* High expertise in network related protocols like HTTP, SIP, TCP/UDP/IP, DNS, Radius and Diameter.
-* Software design, specification, integration, development and quality assurance.
-* Great experience developing and designing multi-threading distributed systems with demands of high-availability, high rates of traffic and very low processing latency.
-* High expertise in Linux based operating systems (Red Hat, CentOS and Ubuntu) – system administration, troubleshooting, advanced POSIX, socket and concurrent programming and software packaging.
-* HTTP, Websockets, SIP and DNS network packet and communication flow analysis.
-* Great competence developing software following standard object oriented design and functional patterns and code style standards.
-* Database Systems: PostresSQL, SQLite and MySQL.
-* Design and implementation of tools for automate the integration tests, system tests and pre-production environments.
-* Native Android Development
-* Test automation and Unit testing with frameworks like jUnit, Mockito, PowerMock and RSpec.
-* Software Tools: gcc, rpm, gdb, eclipse, svn, autotools, ant, maven, advanced git, wireshark, Android development Tools, and JIRA.
-* OpenSSL Programming
-* Docker Advanced User
-* Agile methodologies
 
 ## Interests
 
