@@ -7,6 +7,29 @@ modified: 2013-09-13
 image:
 ---
 
+
+## Skills
+
+* Programming in C, C++, Java, Ruby+RoR, TCL/Tk, Go, Shell Script, and SQL.
+* Java (SE and Android) and C++ Applications debugging, profiling and tuning.
+* High expertise in network related protocols like HTTP, SIP, TCP/UDP/IP, DNS, Radius and Diameter.
+* Software design, specification, integration, development and quality assurance.
+* Great experience developing and designing multi-threading distributed systems with demands of high-availability, high rates of traffic and very low processing latency.
+* High expertise in Linux based operating systems (Red Hat, CentOS and Ubuntu) – system administration, troubleshooting, advanced POSIX, socket and concurrent programming and software packaging.
+* HTTP, Websockets, SIP and DNS network packet and communication flow analysis.
+* Great competence developing software following standard object oriented design and functional patterns and code style standards.
+* Database Systems: PostresSQL, SQLite and MySQL.
+* Design and implementation of tools for automate the integration tests, system tests and pre-production environments.
+* Native Android Development
+* Test automation and Unit testing with frameworks like jUnit, Mockito, PowerMock and RSpec.
+* Software Tools: gcc, rpm, gdb, eclipse, svn, autotools, ant, maven, advanced git, Wireshark, Android development Tools, and JIRA.
+* OpenSSL Programming
+* Docker Advanced User
+* Agile methodologies
+
+
+## Experience
+
 ### January 2014 - Current
 
 ## [Axway](https://www.axway.com) -  Senior Software Engineer
@@ -94,24 +117,7 @@ Aveiro , Portugal
 * WIFI and Ethernet Network design and planing .
 * Developed some customized VoIP PBX systems based on the open source framework [Asterisk](http://www.asterisk.org/) .
 
-## Skills
 
-* Programming in C, C++, Java, Ruby+RoR, TCL/Tk, Go, Shell Script, and SQL.
-* Java (SE and Android) and C++ Applications debugging, profiling and tuning.
-* High expertise in network related protocols like HTTP, SIP, TCP/UDP/IP, DNS, Radius and Diameter.
-* Software design, specification, integration, development and quality assurance.
-* Great experience developing and designing multi-threading distributed systems with demands of high-availability, high rates of traffic and very low processing latency.
-* High expertise in Linux based operating systems (Red Hat, CentOS and Ubuntu) – system administration, troubleshooting, advanced POSIX, socket and concurrent programming and software packaging.
-* HTTP, Websockets, SIP and DNS network packet and communication flow analysis.
-* Great competence developing software following standard object oriented design and functional patterns and code style standards.
-* Database Systems: PostresSQL, SQLite and MySQL.
-* Design and implementation of tools for automate the integration tests, system tests and pre-production environments.
-* Native Android Development
-* Test automation and Unit testing with frameworks like jUnit, Mockito, PowerMock and RSpec.
-* Software Tools: gcc, rpm, gdb, eclipse, svn, autotools, ant, maven, advanced git, Wireshark, Android development Tools, and JIRA.
-* OpenSSL Programming
-* Docker Advanced User
-* Agile methodologies
 
 ## Side Projects
 
