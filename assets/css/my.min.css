@@ -19,3 +19,9 @@ body#page {
     font-size: 20px;
     font-size: 1.00rem;
 }
+
+pre.highlight {
+    border: 1px solid rgba(224, 224, 224, 0.6);
+    padding: 20px;
+    background-color: #f3f3f3;
+}

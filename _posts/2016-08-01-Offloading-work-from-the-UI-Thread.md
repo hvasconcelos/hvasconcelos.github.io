@@ -3,7 +3,7 @@ layout: post
 title: Offloading work from the UI Thread on Android
 description: "Offloading work from the UI Thread on Android"
 category: articles
-tags: [Android,Java,Asynchronous,RxJava,Looper,Handler,JobScheduler,IntentService]
+tags: [Android,Java,Asynchronous,AsyncTask,RxJava,Looper,Handler,JobScheduler,IntentService]
 comments: true
 ---
 
@@ -59,9 +59,8 @@ Let’s enumerate the most common techniques that are covered in detail in the �
 AsyncTask is simple construct available on the Android platform since Android Cupcake (API Level 3) and is the most widely used asynchronous construct. The AsyncTask was designed to run short-background operations that once finished update the UI.
 The AsyncTask construct performs the time consuming operation, defined on the doInBackground function, on a global static thread pool of background threads. Once doInBackground terminates with success, the AsyncTask construct switches back the processing to the main thread (onPostExecute) delivering the operation result for further processing.
 
-```
+```java
 public class DownloadImageTask extends AsyncTask<URL, Integer, Bitmap> {
-
   protected Long doInBackground(URL... urls) {}
   protected void onProgressUpdate(Integer... progress) {}
   protected void onPostExecute(Bitmap image) {}
@@ -73,7 +72,7 @@ This technique if it is not used properly can lead to memory leaks or inconsiste
 ## HandlerThread
 The HandlerThread is a Threat that incorporates a message queue and an Android Looper that runs continuously waiting for incoming operations to execute. To submit new work to the Thread we have to instantiate a Handler that is attached to HandlerThread Looper.
 
-```
+```java
 HandlerThread handlerThread = new HandlerThread("MyHandlerThread");
 handlerThread.start();
 Looper looper = handlerThread.getLooper();
@@ -89,13 +88,11 @@ The Handler interface allow us to submit a Message or a Runnable subclass object
 ## Loader
 The Loader construct allow us to run asynchronous operations that load content from a content provider or a data source, such as an Internal Database or a HTTP service. The API can load data asynchronously, detect data changes, cache data and is aware of the Fragment and Activity lifecycle. The Loader API was introduced to the Android platform at API level 11, but are available for backwards compatibility through the Android Support libraries.
 
-```
+```java
 public static class TextLoader extends AsyncTaskLoader<String> {
-
     @Override public String loadInBackground() {
         // Background work
     }
-
     @Override public void deliverResult(String text) {}
     @Override protected void onStartLoading() {}
     @Override protected void onStopLoading() {}
@@ -107,9 +104,8 @@ public static class TextLoader extends AsyncTaskLoader<String> {
 ## IntentService
 The IntentService class is a specialized subclass of Service that implements a background work queue using a single HandlerThread. When work is submitted to an IntentService, it is queued for processing by a HandlerThread, and processed in order of submission.
 
-```
+```java
 public class BackupService extends IntentService {
-
     @Override
     protected void onHandleIntent(Intent workIntent) {
         // Background Work
@@ -120,9 +116,9 @@ public class BackupService extends IntentService {
 ## JobScheduler
 The JobScheduler API allow us to execute jobs in background when several prerequisites are fulfilled and taking into the account the energy and network context of the device. This technique allows us to defer and batch job executions until the device is charging or an unmetered network is available.
 
-```
+```java
 JobScheduler scheduler = (JobScheduler) getSystemService(
-    Context.JOB_SCHEDULER_SERVICE );
+                            Context.JOB_SCHEDULER_SERVICE);
 JobInfo.Builder builder = new JobInfo.Builder(JOB_ID,serviceComponent);
 builder.setRequiredNetworkType(JobInfo.NETWORK_TYPE_UNMETERED);
 builder.setRequiresCharging(true);
@@ -134,7 +130,7 @@ RxJava is an implementation of the Reactive Extensions (ReactiveX) on the JVM, t
 The framework extends the Observer pattern by allowing us to create a stream of events, that could be intercepted by operators (input/output) that modify the original stream of events and deliver the result or an error to a final Observer.
 The RxJava Schedulers allow us to control in which thread our Observable will begin operating on and in which thread the event is delivered to the final Observer or Subscriber.
 
-```
+```java
 Subscription subscription = getPostsFromNetwork()
     .map(new Func1<Post, Post>() {
         @Override
@@ -148,10 +144,8 @@ Subscription subscription = getPostsFromNetwork()
     .subscribe(new Observer<Post>() {
         @Override
         public void onCompleted() {}
-
         @Override
         public void onError() {}
-
         @Override
         public void onNext(Post post) {
             // Process the result
@@ -164,8 +158,7 @@ As you have seen, there are several high level asynchronous constructs available
 Asynchronous multithreaded programming, that produces reliable results, is difficult and error prone task so using a high level technique tends to simplify the application source code and the multithreading processing logic required to scale the application over the available CPU cores.
 Remember that keeping your application responsive and smooth is essential to delight your users and increase your chances to create a notorious mobile application.
 
-The techniques and asynchronous constructs summarized on the previous paragraphs are covered in detail in the “Asynchronous Android Programming” book published by Packt Publishing.
+The techniques and asynchronous constructs summarized on the previous paragraphs are covered in detail in the [Asynchronous Android Programming](https://www.packtpub.com/application-development/asynchronous-android-programming-second-edition) book published by Packt Publishing.
 
-* [Packt Publishing](https://www.packtpub.com/application-development/asynchronous-android-programming-second-edition)
 
 
