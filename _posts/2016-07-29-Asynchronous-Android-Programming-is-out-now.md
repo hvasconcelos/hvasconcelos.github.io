@@ -43,9 +43,7 @@ Get accustomed to the use of the Android Loader construct to deliver up-to-date 
 11. Exploring Bus based Communications
 12. Asynchronous Programing with RxJava
 
-
 [Free sample](https://www.packtpub.com/mapt/book/Application%20Development/9781785883248)
-
 
 ### Available on:
 

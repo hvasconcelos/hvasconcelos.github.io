@@ -38,9 +38,6 @@ Asynchronous programming has acquired immense importance in Android programming,
 * How to pull and push data from your network servers using Google GCM Platform.
 * How to create and compose tasks with RxJava to execute complex asynchronous work  in a predictable way.
 
-
-
 Preorder it at [Amazon](http://www.amazon.co.uk/Asynchronous-Android-Programming-Helder-Vasconcelos/dp/1785883240/)
-
 
 More info at [Packt Publishing](https://www.packtpub.com/application-development/asynchronous-android-programming)
