@@ -20,13 +20,14 @@ Finally, we will introduce RxJava, a popular asynchronous Java framework used to
 
 ## What You Will Learn
 
-Get familiar with the android process model and low-level concurrent constructs delivered by the Android SDK
-Use AsyncTask and loader framework to load data in the background, delivering progress results in the meantime
-Create services that interact with your activity without compromising the UI rendering
-Learn the working of Android concurrency on the Native Layer
-Interact with nearby devices over Bluetooth and WiFi communications channels
-Create and compose tasks with RxJava to execute complex asynchronous work in a predictable way
-Get accustomed to the use of the Android Loader construct to deliver up-to-date results
+* Learn about the Android Process and  the low level concurrent and multithread constructs available on Android SDK.
+* Use AsyncTask and Loader framework to load data in the background, delivering progress results in the meantime
+* How to enhance UI performance and responsiveness by sending work to a Service running in the background.
+* How to defer, schedule and batch work on the Android System without compromising the battery life and user experience.
+* How to use the JNI interface to execute concurrent work on native code (C/C++)
+* How to pull and push data from your network servers using Google GCM Platform.
+* How to use the Publish/Subscribe Pattern on Android to decouple the the message consumer from the message producer.
+* How to create and compose tasks with RxJava to execute complex asynchronous work in a predictable way.
 
 ## Chapters:
 
