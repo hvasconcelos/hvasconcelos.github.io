@@ -47,9 +47,9 @@ Get accustomed to the use of the Android Loader construct to deliver up-to-date 
 
 ### Available on:
 
-* [Amazon](https://www.amazon.co.uk/Asynchronous-Android-Programming-Helder-Vasconcelos/dp/1785883240/ref=pd_ecc_rvi_1)
-* [Packt Publishing](https://www.packtpub.com/application-development/asynchronous-android-programming-second-edition)
-* [Ebay](http://www.ebay.com/itm/like/191936032887?vectorid=229466&lgeo=1&item=191936032887&rmvSB=true)
-* [!Indigo](https://www.chapters.indigo.ca/en-ca/books/asynchronous-android-programming/9781785885518-item.html?ikwid=helder+botelho&ikwsec=Books&ikwidx=0)
-* [Barnes and Noble](http://www.barnesandnoble.com/w/asynchronous-android-programming-helder-vasconcelos/1123199680?ean=9781785883248&st=AFF&SID=BNB_DRS_ProductCatalogBN_20150928&2sid=Eurobuch+Gmbh_7559861_NA&sourceId=AFFEurobuch+GmbhM000021)
-* [AbeBooks](http://www.abebooks.com/servlet/BookDetailsPL?bi=19551722043&clickid=w9p12z3Ph11XV9WWpKQ0bz0FUkk2ikTlS31kUQ0&cm_mmc=aff-_-ir-_-72163-_-77798&ref=imprad72163&afn_sr=impact)
+* [Amazon](http://amzn.to/2auAux6)
+* [Packt Publishing](http://bit.ly/2alTs8z)
+* [Ebay](http://ebay.to/2b384Lw)
+* [!Indigo](http://bit.ly/2aw0o5L)
+* [Barnes and Noble](http://bit.ly/2atwhL8)
+* [AbeBooks](http://bit.ly/2aJ804x)
