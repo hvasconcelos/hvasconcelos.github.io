@@ -48,6 +48,8 @@ Get accustomed to the use of the Android Loader construct to deliver up-to-date 
 ### Available on:
 
 * [Amazon](http://amzn.to/2auAux6)
+* [Book Depository](http://bit.ly/2aCkPMp)
+* [Foyles](http://bit.ly/2aSg1aB)
 * [Packt Publishing](http://bit.ly/2alTs8z)
 * [Ebay](http://ebay.to/2b384Lw)
 * [!Indigo](http://bit.ly/2aw0o5L)
