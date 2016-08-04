@@ -33,6 +33,7 @@
       </footer>
       <div class="entry-content" itemprop="description">
         {{ content }}
+        {% include share-page-simple.html %}
         {% if site.disqus_shortname and page.comments %}<div id="disqus_thread"></div><!-- /#disqus_thread -->{% endif %}
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
@@ -53,7 +54,7 @@
   </footer>
 </div><!-- /.footer-wrapper -->
 
-{% include scripts.html %}	        
+{% include scripts.html %}
 
 </body>
 </html>
