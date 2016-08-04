@@ -4,7 +4,7 @@ logo:             site-logo.png
 disqus_shortname: heldervasconcelos
 search:           true
 #Comment out url when working locally to resolve base urls correctly
-#url:              http://localhost
+url:              http://hvasconcelos.github.io
 
 # Owner/author information
 owner:
@@ -42,7 +42,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
 future:      true
-highlighter: rouge
+highlighter: true
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
