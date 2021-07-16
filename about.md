@@ -12,7 +12,7 @@ I'm a portuguese Senior Software Engineer based in Dublin, Ireland. During the d
 
 ### Contact Me
 
-* TAIKAI: [Profile](https://taikai.network/en/heldervasc)
+* [TAIKAI Profile](https://taikai.network/en/heldervasc)
 * Twitter: @heldervasc
 * Github: hvasconcelos
 * LinkedIn: https://www.linkedin.com/in/heldervasc/
