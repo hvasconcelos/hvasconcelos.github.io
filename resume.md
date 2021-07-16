@@ -35,16 +35,16 @@ image:
 ## [TAIKAI](https://taikai.network) -  CTO
 Porto, Portugal
 
-* TAIKAI is an open innovation social network that connects innovators and entrepreneurs, universities and organizations through a token-based economy.
+TAIKAI is an open innovation social network that connects innovators and entrepreneurs, universities and organizations through a token-based economy.
 
-**Technologies: EOS Blockchain, Smart Contracts, C++, Node.js, Kubernetes and GraphQL**
+Technologies: EOS Blockchain, Smart Contracts, C++, Node.js, Kubernetes and GraphQL
 
 ### November 2016 - November 2018
 
 ## [Euronext](https://www.euronext.com) -  Tech Lead
 Dublin, Ireland
 
-* Optiq Commercial Tech Lead
+Optiq Commercial Tech Lead
 
 
 ### January 2014 - Oct 2016
