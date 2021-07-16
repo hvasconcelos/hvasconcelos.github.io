@@ -12,6 +12,7 @@ I'm a portuguese Senior Software Engineer based in Dublin, Ireland. During the d
 
 ### Contact Me
 
+* TAIKAI: https://taikai.network/en/heldervasc
 * Email: heldervasc@bearstouch.com
 * Twitter: @heldervasc
 * Github: hvasconcelos
