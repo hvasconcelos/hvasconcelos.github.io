@@ -6,7 +6,7 @@ tags: [software engineer,Android developer,engineer,freelancer, software, develo
 modified: 2013-09-16
 ---
 
-I'm a portuguese Senior Software Engineer based in Dublin, Ireland. During the day work for Axway, mainly doing backend software development. In my spare time i work as a freelancer doing some native Android development for Bearstouch Software and Third Party Companies.
+I'm a portuguese Senior Software Engineer based in Porto, Portugal. 
 
 #### [Asynchronous Android Programming](https://www.packtpub.com/application-development/asynchronous-android) book author.
 
