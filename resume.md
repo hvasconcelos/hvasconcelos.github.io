@@ -38,6 +38,7 @@ Porto, Portugal
 TAIKAI is an open innovation social network that connects innovators and entrepreneurs, universities and organizations through a token-based economy.
 
 Technologies: EOS Blockchain, Smart Contracts, C++, Node.js, Kubernetes and GraphQL
+<br><br>
 
 ### November 2016 - November 2018
 
