@@ -13,6 +13,7 @@ I'm a portuguese Senior Software Engineer based in Porto, Portugal.
 ### Contact Me
 
 * [TAIKAI Profile](https://taikai.network/en/heldervasc)
+* [Dev.to](https://dev.to/heldervasc)
 * Twitter: @heldervasc
 * Github: hvasconcelos
 * LinkedIn: https://www.linkedin.com/in/heldervasc/
